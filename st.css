@@ -567,8 +567,108 @@ ul {
 @media (max-width:600px) {
 
 
+    .image {
+        width: 8rem;
+        height: 8rem;
+    }
+    .pic-side h2 {
+        font-size: .96rem;
+    }
 
+    .t-dot {
+        width: 1rem;
+        height: 1rem;
+    }
+    
+.t-dot:hover {
+    width: 1.2rem;
+    height: 1.2rem;
+}
+.theme p {
+    font-size: .6rem;
    
+}
+.info-title {
+    font-size: 1rem;
+}
+
+.info p {
+    font-size: .8rem;
+}
+.about h2 {
+    font-size: 1rem;
+}
+
+.about p {
+   font-size: .8rem;
+}
+.soical-title {
+    font-size: 1rem;}
+    
+.soical-links li a {
+  
+        font-size: .7rem;
+     }
+     
+     #projects-title {
+    
+        font-size: .9rem;
+    }
+    .box {
+        width:14rem;
+        height: 13rem;
+
+    }
+    
+    .box .image {
+        height: 8rem;
+    }
+
+    .projects-text h5 {
+        font-size: .7rem;
+    }
+    
+    .projects-text p {
+        font-size: .6rem;
+    }
+
+
+    
+    #contact-title h5 {
+        font-size: 1rem;
+    }
+    
+    .form {
+        width: 25rem;
+        height: 21rem;
+    }
+    
+    .form label {
+        font-size: .65rem;
+    }
+    
+
+    #message {
+        height: 5rem;
+    }
+    
+    .btn {
+        height: .9rem;
+        font-size: .5rem;
+    }
+
+
+
+
+
+
+
+
+
+
+    
+
+    
 
 
     .intro-wraper { 
@@ -589,22 +689,9 @@ ul {
        padding-bottom: 1rem;
     }
 
-    .info-shadow {
-        width: 12rem;
-        height: 8rem;
 
-    }
     
-    .info {
-        border: 1px solid var(--linkColor);
-        border-radius: .2rem;
-        width: 12rem;
-        height: 8rem;
-        padding: 1rem;
-        background-color: var(--boxBackground);
-        position: relative;
- 
-    }
+
     
     .about {
         grid-template-columns: 1fr ;
@@ -630,22 +717,9 @@ ul {
  
 
 
-    .box{ 
-        width: 16rem;
-        height: 14rem; 
-        margin-bottom: 1rem;
-    }
 
-   .box .image {
-    width:100%;
-    height: 6rem;
-}
 
-.box .image img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-}
+
 
 .form {
     width: 20rem;
@@ -654,9 +728,6 @@ ul {
 }
 
 
-.form label {
-    font-size: .8rem;
-}
 
 
 .btn {
@@ -665,15 +736,6 @@ ul {
 }
 
 
-.about h2 {
-    font-size: 1.3rem;
-  
-}
-
-.about p {
-    font-size: 1rem;
-  
-}
 
 
 .experience {
@@ -690,64 +752,9 @@ ul {
 }
 
 
-.menu li  a {
-    font-size: 1.2rem;
 
-}
 
 }
 
 
-    @media (max-width:400px) {
-      
-        
-.form {
-    width: 18rem;
-    height: 25rem;
-   
-    
-}
-
-
-.form label {
-    font-size: .7rem;
-}
-
-
-.btn {
-    margin-top: .6rem;
-    
-}
-
-
-
-.projects-text h5 {
-    font-size: 1rem;
-}
-
-.projects-text p {
-    font-size: .8rem;
-}
-
-
-.info-shadow {
-    width: 13rem;
-    height: 7rem;
- 
-
-}
-
-.info {
-    width: 13rem;
-    height: 7rem;
- 
-}
-.info-title {
-    font-size: 1rem;
-}
-
-.info p {
-    font-size: .7rem;
-}  
-
-    }
+  
