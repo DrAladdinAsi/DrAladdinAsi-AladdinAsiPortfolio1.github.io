@@ -1,0 +1,27 @@
+:root {
+    --mainColor:rgb(204, 199, 199);
+    --secondaryColor : black;
+    --thirdColor :rgb(90, 85, 85);
+    
+    --lighterColor : rgb(151, 148, 148);
+    --aboutTextColor:rgb(255, 252, 252);
+    --projectsBoxTitleColor :var(--secondaryColor);
+
+    --redDot:red;
+    --greenDot:green;
+    --orangeDot:orange;
+    --purbleDot :rgb(214, 65, 219);
+    --oliveDot :rgb(58, 131, 58);
+    --whiteDot:white;
+    --blackDot:black;
+
+    --linkColor:rgb(39, 111, 219);
+
+    --boxBackground :rgba(118, 119, 109, 0.8);
+    --boxBackgroundshadow :rgb(63, 63, 59);
+    
+    --textLighterColor:rgb(255, 255, 255);
+    --btnColor:white;
+
+
+}
