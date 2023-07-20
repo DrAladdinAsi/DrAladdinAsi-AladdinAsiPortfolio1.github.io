@@ -715,8 +715,39 @@ ul {
 
 
 .btn {
-    margin-top: 1rem;
+    margin-top: .6rem;
     
 }
+
+
+
+.projects-text h5 {
+    font-size: 1rem;
+}
+
+.projects-text p {
+    font-size: .8rem;
+}
+
+
+.info-shadow {
+    width: 13rem;
+    height: 7rem;
+ 
+
+}
+
+.info {
+    width: 13rem;
+    height: 7rem;
+ 
+}
+.info-title {
+    font-size: 1rem;
+}
+
+.info p {
+    font-size: .7rem;
+}  
 
     }
